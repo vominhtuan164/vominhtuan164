@@ -22,8 +22,6 @@
 [<img align="left" alt="Minh Tuan VO | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/minhtuanvo/)
 [<img align="left" alt="Minh Tuan VO | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/vominhtuan164/)
 
-<img align="right" alt="GIF" src="https://github.com/vominhtuan164/github-profile/blob/master/code.gif?raw=true" width="500" height="320" />
-
 <!-- SOCIAL NETWORKING: END -->
 
 <br />
@@ -45,15 +43,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- LANGUAGES AND TOOLS LIST: END -->
+<img align="right" alt="GIF" src="https://github.com/vominhtuan164/github-profile/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<br />
+<!-- LANGUAGES AND TOOLS LIST: END -->
 
 <!-- COMPACT LANGUAGE CARD LAYOUT: START -->
 
 <div>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vominhtuan164&show_icons=true&locale=en&layout=compact"
     alt="vominhtuan164"/>
 </div>
