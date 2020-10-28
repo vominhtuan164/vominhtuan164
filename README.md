@@ -4,7 +4,7 @@
 
 ### I'm I am a fifth year student specializing in Software Architecture and Security at INSA Centre Val de Loire, Bourges 🎒 !!
 
-<img align="right" alt="GIF" src="https://github.com/vominhtuan164/github-profile/blob/master/code.gif?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/vominhtuan164/github-profile/blob/master/code.gif?raw=true" width="340" height="240" />
 
 ### Talking about Personal Stuffs:
 
