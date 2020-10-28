@@ -1,10 +1,10 @@
 <!-- INTRODUCTION: START -->
 
-### Hi there, I'm Minh Tuan VO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Minh Tuan VO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm I am a fifth year student specializing in Software Architecture and Security at INSA Centre Val de Loire, Bourges 🎒 !!
+### I'm I am a fifth year student specializing in Software Architecture and Security at INSA Centre Val de Loire, Bourges 🎒 !!
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
 - 🔎 I am currently looking for an internship in web development, starting March 2021
 - 🌱 I’m currently learning React and React-Native;
@@ -16,11 +16,13 @@
 
 <!-- SOCIAL NETWORKING: START -->
 
-**Connect with me:**
+### Connect with me:
 
 [<img align="left" alt="Minh Tuan VO | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/tuan.vominh.7792/)
 [<img align="left" alt="Minh Tuan VO | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/minhtuanvo/)
 [<img align="left" alt="Minh Tuan VO | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/vominhtuan164/)
+
+<img align="right" alt="GIF" src="https://github.com/vominhtuan164/github-profile/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- SOCIAL NETWORKING: END -->
 
@@ -28,7 +30,7 @@
 
 <!-- LANGUAGES AND TOOLS LIST: START -->
 
-**Languages and Tools:**
+### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -42,8 +44,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<img align="right" alt="GIF" src="https://github.com/vominhtuan164/github-profile/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- LANGUAGES AND TOOLS LIST: END -->
 
