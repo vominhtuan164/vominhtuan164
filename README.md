@@ -4,9 +4,10 @@
 
 ### I'm I am a fifth year student specializing in Software Architecture and Security at INSA Centre Val de Loire, Bourges 🎒 !!
 
+<img align="right" alt="GIF" src="https://github.com/vominhtuan164/github-profile/blob/master/code.gif?raw=true" width="400" height="280" />
+
 ### Talking about Personal Stuffs:
 
-- 🔎 I am currently looking for an internship in web development, starting March 2021
 - 🌱 I’m currently learning React and React-Native;
 - 👨🏽‍💻 Passionate about new technologies and learning new things
 - ⚡ Fun fact: I love travelling ✈️ and reading books 📘
@@ -21,8 +22,6 @@
 [<img align="left" alt="Minh Tuan VO | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/tuan.vominh.7792/)
 [<img align="left" alt="Minh Tuan VO | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/minhtuanvo/)
 [<img align="left" alt="Minh Tuan VO | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/vominhtuan164/)
-
-<img align="right" alt="GIF" src="https://github.com/vominhtuan164/github-profile/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- SOCIAL NETWORKING: END -->
 
